@@ -48,8 +48,8 @@ CLIENT01 DNS Servers:
 - Server OS: Windows Server 2025
 - Client OS: Windows 11 Pro
 - Domain: `cobo.test`
-- Primary Domain Controller: `DC01` - `10.10.10.10`
-- Additional Domain Controller: `DC02` - `10.10.10.11`
+- Domain Controller: DC01: `DC01` - `10.10.10.10`
+- Domain Controller: DC02: `DC02` - `10.10.10.11`
 - Client Workstation: `CLIENT01` - DHCP assigned
 - Network: `10.10.10.0/24`
 - Default Gateway: `10.10.10.1`
